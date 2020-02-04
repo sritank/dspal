@@ -1,3 +1,4 @@
 [submodule "cmake_hexagon"]
 	path = cmake_hexagon
 	url = git@github.com:sritank/cmake_hexagon.git
+	branch = master
